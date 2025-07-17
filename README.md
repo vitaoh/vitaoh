@@ -1,5 +1,10 @@
-## vitao
-
+ ```python
+class Vitao:
+    def __init__(self) -> None:
+        self.name: str = 'Victor Rodrigues Herculini'
+        self.location: str = 'Brazil'
+        self.age: int = 19
+```
 <div>
   <a href="https://github.com/vitaoh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitaoh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
