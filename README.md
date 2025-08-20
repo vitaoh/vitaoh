@@ -3,7 +3,7 @@ class Vitao:
     def __init__(self) -> None:
         self.name: str = 'Victor Rodrigues Herculini'
         self.location: str = 'Brazil'
-        self.age: int = 19
+        self.age: int = 20
 ```
 <div>
   <a href="https://github.com/vitaoh">
