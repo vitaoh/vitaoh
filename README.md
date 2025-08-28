@@ -4,6 +4,7 @@ class Vitao:
         self.name: str = 'Victor Rodrigues Herculini'
         self.location: str = 'Brazil'
         self.age: int = 20
+        self.about: str = 'Passionate about software development, with experience in technologies'
 ```
 <div>
   <a href="https://github.com/vitaoh">
