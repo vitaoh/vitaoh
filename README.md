@@ -1,8 +1,18 @@
 <div align="center">
+
+  <!-- Banner animado com texto de digitação -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&pause=1000&color=00E7FF&background=FF000000&center=true&vCenter=true&width=480&height=75&lines=Code%2C+Learn%2C+Repeat+%F0%9F%94%84" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&pause=1500&color=00E7FF&background=00000000&center=true&vCenter=true&width=480&height=75&lines=Code%2C+Learn%2C+Repeat+%F0%9F%94%84" alt="Typing SVG"/>
   </a>
+
+  <!-- Seu nome com fonte grande e waving animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Victor%20Rodrigues%20Herculini&fontSize=45&animation=fadeIn" alt="Victor Rodrigues Herculini" />
+
 </div>
+
+---
+
+### 👋 Sobre mim
  
  ```python
 class Vitao:
@@ -13,10 +23,69 @@ class Vitao:
         self.about: str = 'Passionate about software development, with experience in technologies'
 ```
 
-<div>
+---
+
+### 🔥 Estatísticas no GitHub
+
+<div align="center">
   <a href="https://github.com/vitaoh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitaoh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaoh&layout=compact&langs_count=16&theme=dark"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vitaoh&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaoh&layout=compact&langs_count=8&theme=blue_navy" />
+  </a>
 </div>
-   
-<img src="https://raw.githubusercontent.com/vitaoh/vitaoh/output/snake.svg" alt="Snake animation" />
+
+---
+
+### 🐍 Animação divertida
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vitaoh/vitaoh/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+### 📫 Conecte-se comigo
+
+<p align="center">
+  <a href="https://linkedin.com/in/victorherculini" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/vitaoh" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:vitor@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 🚀 Skills técnicas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,docker,linux,git,github,html,css" alt="Tech stack icons" />
+</div>
+
+---
+
+### 💡 Projetos em destaque
+
+- [Projeto 1](https://github.com/vitaoh/projeto-1) - Descrição breve.
+- [Projeto 2](https://github.com/vitaoh/projeto-2) - Descrição breve.
+
+---
+
+### 📚 Blog e artigos recentes
+
+<!-- Exemplo de blog com workflow para pegar últimas postagens -->
+<!-- Pode ser customizado com GitHub actions -->
+
+---
+
+Agradeço sua visita! Sinta-se à vontade para entrar em contato, colaborar ou trocar ideias.
+
+---
+
+⭐ Se gostou do perfil, deixe uma estrela no meu GitHub!
+
+
