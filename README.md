@@ -63,7 +63,7 @@ class Vitao:
 ### 🚀 Skills técnicas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,docker,linux,git,github,html,css" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,nodejs,docker,kotlin,mysql,linux,git,github,html,css" alt="Tech stack icons" />
 </div>
 
 ---
