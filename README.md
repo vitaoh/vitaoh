@@ -70,7 +70,7 @@ class Vitao:
 
 ### 💡 Projetos em destaque
 
-- [Projeto 1](https://github.com/vitaoh/SGCMAQ3028968) - Projeto de Banco de Dados aplicado a Java.
+- [SGCMAQ3028968](https://github.com/vitaoh/SGCMAQ3028968) - Projeto de Banco de Dados aplicado a Java.
 - [Projeto 2](https://github.com/vitaoh/projeto-2) - Descrição breve.
 
 ---
