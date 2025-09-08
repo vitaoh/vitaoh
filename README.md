@@ -32,7 +32,6 @@ class Vitao:
 |Estatisticas|Linguagens|Streaks|
 |-|-|-|
 |[![Victor Herculini github stats](https://github-readme-stats.vercel.app/api?username=vitaoh&show_icons=true&theme=dracula&hide_title=true)](https://github.com/vitaoh)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitaoh&show_icons=true&theme=dracula&layout=compact&hide_title=true)](https://github.com/vitaoh)|![vitaoh](https://github-readme-streak-stats.herokuapp.com/?user=vitaoh&theme=dracula)
-<hr>
 
 ---
 
