@@ -27,12 +27,12 @@ class Vitao:
 
 ### 🔥 Estatísticas no GitHub
 
-<div align="center">
-  <a href="https://github.com/vitaoh">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vitaoh&show=issues&show_icons=true&theme=github_dark" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaoh&layout=compact&langs_count=8&theme=github_dark" />
-  </a>
-</div>
+<p align="center">
+
+|Estatisticas|Linguagens|Streaks|
+|-|-|-|
+|[![Victor Herculini github stats](https://github-readme-stats.vercel.app/api?username=vitaoh&show_icons=true&theme=dracula&hide_title=true)](https://github.com/vitaoh)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitaoh&show_icons=true&theme=dracula&layout=compact&hide_title=true)](https://github.com/vitaoh)|![vitaoh](https://github-readme-streak-stats.herokuapp.com/?user=vitaoh&theme=dracula)
+<hr>
 
 ---
 
