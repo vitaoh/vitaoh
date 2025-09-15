@@ -1,12 +1,12 @@
 <div align="center">
 
+  <!-- Seu nome com fonte grande e waving animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Victor%20Rodrigues%20Herculini&fontSize=45&animation=fadeIn" alt="Victor Rodrigues Herculini" />
+
   <!-- Banner animado com texto de digitação -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&pause=1500&color=00E7FF&background=00000000&center=true&vCenter=true&width=480&height=75&lines=Code%2C+Learn%2C+Repeat+%F0%9F%94%84" alt="Typing SVG"/>
   </a>
-
-  <!-- Seu nome com fonte grande e waving animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Victor%20Rodrigues%20Herculini&fontSize=45&animation=fadeIn" alt="Victor Rodrigues Herculini" />
 
 </div>
 
