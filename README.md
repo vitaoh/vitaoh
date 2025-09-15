@@ -35,7 +35,7 @@ class Vitao:
 
 ---
 
-### 🐍 Animação divertida
+### 🐍 Animação Cobrinha
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/vitaoh/vitaoh/output/snake.svg" alt="Snake animation" />
