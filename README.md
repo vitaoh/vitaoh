@@ -40,7 +40,6 @@ class Vitao:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-victor--herculini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-herculini)
   [![Email](https://img.shields.io/badge/Email-herculinvictorr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herculinvictorr@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-victorherculini-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorherculini/)
-  [![Twitter](https://img.shields.io/badge/Twitter-vitaoh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vitaoh)
 <br><br>
 
 ---
