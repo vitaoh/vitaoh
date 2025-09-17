@@ -36,11 +36,22 @@ class Vitao:
 
 ### 📫 Conecte-se comigo
 
-<br><br>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-victor--herculini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-herculini)
-  [![Email](https://img.shields.io/badge/Email-herculinvictorr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herculinvictorr@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-victorherculini-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorherculini/)
-<br><br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/victor-herculini">
+    <img src="https://img.shields.io/badge/LinkedIn-victor--herculini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:herculinvictorr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-herculinvictorr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/victorherculini/">
+    <img src="https://img.shields.io/badge/Instagram-victorherculini-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/vitaoh">
+    <img src="https://img.shields.io/badge/Twitter-vitaoh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
+
+
 
 ---
 
