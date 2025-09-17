@@ -46,9 +46,6 @@ class Vitao:
   <a href="https://www.instagram.com/victorherculini/">
     <img src="https://img.shields.io/badge/Instagram-victorherculini-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://twitter.com/vitaoh">
-    <img src="https://img.shields.io/badge/Twitter-vitaoh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
 </p>
 
 
