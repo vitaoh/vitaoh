@@ -48,8 +48,6 @@ class Vitao:
   </a>
 </p>
 
-
-
 ---
 
 ### 🚀 Skills técnicas
