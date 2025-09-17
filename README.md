@@ -1,11 +1,6 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Victor%20Rodrigues%20Herculini&fontSize=45&animation=fadeIn" alt="Victor Rodrigues Herculini" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&pause=1500&color=00E7FF&background=00000000&center=true&vCenter=true&width=480&height=75&lines=Code%2C+Learn%2C+Repeat+%F0%9F%94%84" alt="Typing SVG"/>
-  </a>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Victor%20Rodrigues%20Herculini&fontSize=45&fontAlignY=35&animation=twinkling" alt="Victor Rodrigues Herculini" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=39FAFF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Code+%7C+Learn+%7C+Repeat+⚡" alt="Typing SVG"/> 
 </div>
 
 ---
@@ -18,14 +13,12 @@ class Vitao:
         self.name: str = 'Victor Rodrigues Herculini'
         self.location: str = 'Brazil'
         self.age: int = 20
-        self.about: str = 'Passionate about software development, with experience in technologies'
+        self.about: str = 'Fullstack developer, obsessed with problem solving, passionate for software development'
 ```
 
 ---
 
 ### 🔥 Estatísticas no GitHub
-
-<p align="center">
 
 |Estatisticas|Linguagens|Streaks|
 |-|-|-|
@@ -60,7 +53,7 @@ class Vitao:
 ### 🚀 Skills técnicas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,js,nodejs,docker,kotlin,mysql,linux,git,github,html,css" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,nodejs,docker,kotlin,mysql,linux,git,github,html,css,vercel" alt="Tech stack icons" />
 </div>
 
 ---
@@ -69,6 +62,7 @@ class Vitao:
 
 - [SGCMAQ3028968](https://github.com/vitaoh/SGCMAQ3028968) - Projeto de Banco de Dados aplicado com Java.
 - [Portfolio](https://github.com/vitaoh/Portfolio) - Um projeto de Portfolio projetado sobre mim.
+- [POO](https://github.com/vitaoh/POO) — Exercícios e conceitos de programação orientada a objetos.
 
 ---
 
