@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=39FAFF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Code+%7C+Learn+%7C+Repeat+⚡" alt="Typing SVG"/> 
 </div>
 
----
-
 ### 👋 Sobre mim
 
  ```python
