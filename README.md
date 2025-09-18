@@ -51,10 +51,50 @@ class Vitao:
 ---
 
 ### 🚀 Skills técnicas
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,js,nodejs,docker,kotlin,mysql,linux,git,github,html,css,vercel" alt="Tech stack icons" />
+
+  <!-- Linguagens -->
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /><br>C</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>Java</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" /><br>Kotlin</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br>JavaScript</td>
+    </tr>
+  </table>
+
+  <!-- Back-end e Bancos -->
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>Node.js</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle"/><br>Oracle SQL</td>
+    </tr>
+  </table>
+
+  <!-- DevOps -->
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>Linux</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>GitHub</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br>Vercel</td>
+    </tr>
+  </table>
+
+  <!-- Front-end -->
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br>HTML</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br>CSS</td>
+    </tr>
+  </table>
+
 </div>
+
+
 
 ---
 
