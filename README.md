@@ -93,7 +93,7 @@ class Vitao:
 
 ### 💡 Projetos em destaque
 
-- [SGCMAQ3028968](https://github.com/vitaoh/SGCMAQ3028968) - Projeto de Banco de Dados aplicado com Java.
+- [SGCMAQ3028968](https://github.com/vitaoh/SGCMAQ3028968) - Projeto de Sistema de Gerenciamento Clinica Medica.
 - [Portfolio](https://github.com/vitaoh/Portfolio) - Um projeto de Portfolio projetado sobre mim.
 - [POO](https://github.com/vitaoh/POO) — Exercícios e conceitos de programação orientada a objetos.
 
