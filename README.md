@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Victor%20Rodrigues%20Herculini&fontSize=45&fontAlignY=35&animation=twinkling" alt="Victor Rodrigues Herculini" /> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=39FAFF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Code+%7C+Learn+%7C+Repeat+⚡" alt="Typing SVG"/> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=👨‍💻+Fullstack+Developer;💡+Code+|+Learn+|+Repeat;⚡+Always+Building+New+Things" alt="Typing SVG"/>
 </div>
 
 ---
