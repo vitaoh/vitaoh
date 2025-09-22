@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Victor%20Rodrigues%20Herculini&fontSize=45&fontAlignY=35&animation=twinkling" alt="Victor Rodrigues Herculini" /> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Victor%20Rodrigues%20Herculini&fontSize=45&fontAlignY=35&animation=twinkling" alt="Victor Rodrigues Herculini" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=👨‍💻+Fullstack+Developer;💡+Code+|+Learn+|+Repeat;⚡+Always+Building+New+Things" alt="Typing SVG"/>
 </div>
 
@@ -98,6 +98,10 @@ class Vitao:
 - [POO](https://github.com/vitaoh/POO) — Exercícios e conceitos de programação orientada a objetos.
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vitaoh&style=for-the-badge&color=3498db" alt="Contador de Visitas"/>
+</p>
 
 Agradeço sua visita! Sinta-se à vontade para entrar em contato, colaborar ou trocar ideias.
 
