@@ -20,9 +20,10 @@ class Vitao:
 
 ### 🔥 Estatísticas no GitHub
 
-|Estatisticas|Linguagens|Streaks|
-|-|-|-|
-|[![Victor Herculini github stats](https://github-readme-stats.vercel.app/api?username=vitaoh&show_icons=true&theme=dracula&hide_title=true)](https://github.com/vitaoh)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitaoh&show_icons=true&theme=dracula&layout=compact&hide_title=true)](https://github.com/vitaoh)|![vitaoh](https://github-readme-streak-stats.herokuapp.com/?user=vitaoh&theme=dracula)
+|Estatísticas|Linguagens|Streaks|
+|--|--|--|
+|[![Victor Herculini github stats](https://github-readme-stats.vercel.app/api?username=vitaoh&show_icons=true&theme=dracula&hide_title=true)](https://github.com/vitaoh)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitaoh&show_icons=true&theme=dracula&layout=compact&hide_title=true)](https://github.com/vitaoh)|![vitaoh](https://github-readme-streak-stats.herokuapp.com/?user=vitaoh&theme=dracula)|
+
 
 ---
 
@@ -69,6 +70,7 @@ class Vitao:
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br>HTML</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br>CSS</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="48" height="48" alt="XML" /><br>XML</td>
     </tr>
   </table>
 </div>
