@@ -8,12 +8,15 @@
 ### 👋 Sobre mim
 
  ```python
-class Vitao:
+class Victor:
     def __init__(self) -> None:
-        self.name: str = 'Victor Rodrigues Herculini'
-        self.location: str = 'Brazil'
-        self.age: int = 20
-        self.about: str = 'Fullstack developer, obsessed with problem solving, passionate for software development'
+        self.name = "Victor Rodrigues Herculini"
+        self.role = "Fullstack Developer"
+        self.location = "São Carlos, Brazil"
+        self.age = 20
+        self.education = "IFSP - Análise e Desenvolvimento de Sistemas"
+        self.passion = "Problem solving & Software development"
+        self.current_focus = ["Mobile Development", "Web Applications", "Database Design"]
 ```
 
 ---
