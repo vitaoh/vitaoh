@@ -140,11 +140,26 @@ class Victor:
 
 ---
 
-### 💡 Projetos em destaque
+### 💡 **Projetos em Destaque**
 
-- [SGCMAQ3028968](https://github.com/vitaoh/SGCMAQ3028968) - Projeto de Sistema de Gerenciamento Clinica Medica.
-- [Portfolio](https://github.com/vitaoh/Portfolio) - Um projeto de Portfolio projetado sobre mim.
-- [POO](https://github.com/vitaoh/POO) — Exercícios e conceitos de programação orientada a objetos.
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+[![SGCMAQ3028968](https://github-readme-stats.vercel.app/api/pin/?username=vitaoh&repo=SGCMAQ3028968&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/vitaoh/SGCMAQ3028968)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=vitaoh&repo=Portfolio&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/vitaoh/Portfolio)
+
+</td>
+<td width="50%">
+
+[![POO](https://github-readme-stats.vercel.app/api/pin/?username=vitaoh&repo=POO&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/vitaoh/POO)
+[![RedeDevsV2](https://github-readme-stats.vercel.app/api/pin/?username=vitaoh&repo=RedeDevsV2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/vitaoh/RedeDevsV2)
+
+</td>
+</tr>
+</table>
 
 ---
 
