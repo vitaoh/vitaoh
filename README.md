@@ -154,7 +154,7 @@ class Victor:
 </td>
 <td width="50%">
 
-[![POO](https://github-readme-stats.vercel.app/api/pin/?username=vitaoh&repo=POO&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/vitaoh/POO)
+[![PokemonShowdown](https://github-readme-stats.vercel.app/api/pin/?username=vitaoh&repo=PokemonShowdown&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/vitaoh/PokemonShowdown)
 [![RedeDevsV2](https://github-readme-stats.vercel.app/api/pin/?username=vitaoh&repo=RedeDevsV2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/vitaoh/RedeDevsV2)
 
 </td>
