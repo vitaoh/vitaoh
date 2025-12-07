@@ -105,9 +105,9 @@ print(me.current_status())
 <td width="50%" valign="top">
 
 ### 🏭 SGCMAQ3028968
-Sistema de Gestão Completo para Maquinários
+Sistema de Gerenciamento de Tarefas
 <br><br>
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=vitaoh&repo=SGCMAQ3028968&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vitaoh/SGCMAQ3028968)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=vitaoh&repo=task-manager&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vitaoh/task-manager)
 
 **Stack:** Sistema robusto de gerenciamento
 
