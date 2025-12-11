@@ -30,7 +30,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```python
-class victor:
+class VictorHerculini:
     def __init__(self):
         self.name = "Victor Rodrigues Herculini"
         self.role = "Fullstack Developer"
@@ -51,7 +51,7 @@ class victor:
             "🤝 open_to": "Collaborations & opportunities"
         }
 
-dev = victor()
+dev = VictorHerculini()
 print(dev.current_focus())
 ```
 
@@ -171,11 +171,7 @@ print(dev.current_focus())
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitaoh/vitaoh/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitaoh/vitaoh/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitaoh/vitaoh/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/vitaoh/vitaoh/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -249,6 +245,8 @@ Se você tem um projeto interessante ou quer trocar ideias sobre tecnologia, **v
 > *"The best way to predict the future is to create it."* - Peter Drucker
 
 <br/>
+
+**⭐ Se você gostou dos meus projetos, considere dar uma estrela!**
 
 </div>
 
