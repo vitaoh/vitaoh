@@ -27,10 +27,8 @@
 
 ## 👨‍💻 Sobre Mim
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
 ```python
-class VictorHerculini:
+class Victor:
     def __init__(self):
         self.name = "Victor Rodrigues Herculini"
         self.role = "Fullstack Developer"
@@ -38,10 +36,11 @@ class VictorHerculini:
         self.age = 20
         self.education = "IFSP - ADS"
         self.code = ["Python", "Java", "Kotlin", "JavaScript", "C"]
-        self.passion = ["Mobile Dev", "Problem Solving", "Clean Architecture"]
-        
-    def say_hi(self):
-        print("Transformando café em código desde 2004! ☕")
+        self.passion = [
+            "Mobile Development",
+            "Problem Solving",
+            "Clean Architecture"
+        ]
         
     def current_focus(self):
         return {
@@ -51,9 +50,12 @@ class VictorHerculini:
             "🤝 open_to": "Collaborations & opportunities"
         }
 
-dev = VictorHerculini()
-print(dev.current_focus())
+dev = Victor()
+dev.current_focus()
+
 ```
+
+---
 
 <br clear="right"/>
 
@@ -158,35 +160,6 @@ print(dev.current_focus())
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/vitaoh/vitaoh/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 💡 Filosofia de Desenvolvimento
-
-<div align="center">
-
-```javascript
-const myPhilosophy = {
-  code: {
-    quality: ["Clean", "Maintainable", "Scalable", "Testable"],
-    principles: ["DRY", "SOLID", "KISS", "YAGNI"]
-  },
-  mindset: {
-    approach: "Always learning, always improving",
-    motto: "Build solutions, not just code",
-    goal: "Create impactful software that matters"
-  },
-  workflow: {
-    planning: "Think twice, code once",
-    execution: "Commit often, push with confidence",
-    review: "Every PR is a learning opportunity"
-  }
-};
-
-console.log("✨ Committed to excellence in every line of code");
-```
-
 </div>
 
 ---
