@@ -57,8 +57,6 @@ dev.current_focus()
 
 ---
 
-<br clear="right"/>
-
 <div align="center">
 
 ### 🎯 Áreas de Interesse
