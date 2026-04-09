@@ -1,7 +1,3 @@
-Here's the fully translated version:
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Victor%20Rodrigues%20Herculini&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Fullstack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=20" alt="Header"/>
 </div>
