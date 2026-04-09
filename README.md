@@ -9,15 +9,6 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/victor-herculini" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:herculinvictorr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.instagram.com/victorherculini/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=vitaoh&style=for-the-badge&color=3B82F6" alt="Profile Views"/>
 </div>
 
@@ -63,21 +54,25 @@ dev.current_focus()
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <img src="https://img.icons8.com/color/96/000000/android-os.png" width="48"/>
       <br><b>Mobile Development</b>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <img src="https://img.icons8.com/color/96/000000/code.png" width="48"/>
       <br><b>Web Applications</b>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <img src="https://img.icons8.com/color/96/000000/database.png" width="48"/>
       <br><b>Database Design</b>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <img src="https://img.icons8.com/color/96/000000/api.png" width="48"/>
       <br><b>API Development</b>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/color/96/000000/combo-chart--v1.png" width="48"/>
+      <br><b>Data & Analytics</b>
     </td>
   </tr>
 </table>
@@ -154,14 +149,6 @@ dev.current_focus()
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vitaoh/vitaoh/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -196,12 +183,6 @@ Se você tem um projeto interessante ou quer trocar ideias sobre tecnologia, **v
     </td>
   </tr>
 </table>
-
-<br/>
-
-> *"The best way to predict the future is to create it."* - Peter Drucker
-
-<br/>
 
 </div>
 
