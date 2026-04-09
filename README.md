@@ -1,3 +1,7 @@
+Here's the fully translated version:
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Victor%20Rodrigues%20Herculini&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Fullstack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=20" alt="Header"/>
 </div>
@@ -16,14 +20,14 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
 ```python
 class Victor:
     def __init__(self):
         self.name = "Victor Rodrigues Herculini"
         self.role = "Fullstack Developer"
-        self.location = "São Carlos, SP 🇧🇷"
+        self.location = "São Carlos, SP — Brazil"
         self.age = 20
         self.education = "IFSP - ADS"
         self.code = ["Python", "Java", "Kotlin", "JavaScript", "C"]
@@ -43,14 +47,13 @@ class Victor:
 
 dev = Victor()
 dev.current_focus()
-
 ```
 
 ---
 
 <div align="center">
 
-### 🎯 Áreas de Interesse
+### 🎯 Areas of Interest
 
 <table>
   <tr>
@@ -153,11 +156,11 @@ dev.current_focus()
 
 <div align="center">
 
-### 💼 Aberto para Oportunidades
+### 💼 Open to Opportunities
 
-**Estou sempre em busca de novos desafios e colaborações!**
+**I'm always looking for new challenges and collaborations!**
 
-Se você tem um projeto interessante ou quer trocar ideias sobre tecnologia, **vamos conversar!**
+If you have an interesting project or want to talk tech, **let's chat!**
 
 <br/>
 
