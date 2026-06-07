@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=260&amp;section=header&amp;color=0:020617,45:0f172a,75:1e1b4b,100:0891b2&amp;fontColor=e2e8f0&amp;fontSize=54&amp;fontAlignY=34&amp;desc=Fullstack%20Developer%20%7C%20Mobile%20%26%20Web%20Builder%20%7C%20Problem%20Solver&amp;descAlignY=54&amp;descSize=18&amp;animation=fadeIn&amp;text=Victor%20Rodrigues%20Herculini" alt="Victor Rodrigues Herculini header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=260&amp;section=header&amp;color=0:020617,45:0f172a,75:1e1b4b,100:0891b2&amp;fontColor=e2e8f0&amp;fontSize=54&amp;fontAlignY=34&amp;desc=Fullstack%20Developer%20%7C%20Mobile%20and%20Web%20Builder%20%7C%20Problem%20Solver&amp;descAlignY=54&amp;descSize=18&amp;animation=fadeIn&amp;text=Victor%20Rodrigues%20Herculini&amp;v=2" alt="Victor Rodrigues Herculini header" />
 </div>
 
 <p align="center">
@@ -98,7 +98,7 @@ I enjoy turning ideas into practical applications, with special attention to cle
 
 ## `// focus areas`
 
-<table width="100%">
+<table align="center">
 <tr>
 <td align="center" width="20%">
 <img src="https://img.icons8.com/fluency/96/android-os.png" width="56" alt="Android" />
@@ -151,7 +151,7 @@ I enjoy turning ideas into practical applications, with special attention to cle
 
 <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitaoh&amp;theme=github_dark" alt="GitHub stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vitaoh&amp;theme=github_dark&amp;utcOffset=-3" alt="Productive time" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vitaoh&amp;theme=github_dark&amp;utcOffset=-3&amp;v=2" alt="Productive time" />
 </div>
 
 <br />
