@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/vitaoh">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2400&amp;pause=900&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=42&amp;lines=Building+clean+digital+experiences;Android%2C+Web+and+Backend+development;Driven+by+architecture%2C+logic+and+impact;Always+learning.+Always+shipping." alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=22&amp;duration=2400&amp;pause=900&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=42&amp;lines=Building+clean+digital+experiences;Mobile%2C+Web+and+Backend+development;Driven+by+architecture%2C+logic+and+impact;Always+learning.+Always+shipping." alt="Typing introduction" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@ const victor = {
   role: "Fullstack Developer",
   location: "Sao Carlos, SP - Brazil",
   education: "ADS at IFSP",
-  focus: ["Android", "Web Apps", "Backend", "Clean Architecture"],
+  focus: ["Mobile", "Web Apps", "Backend", "Clean Architecture"],
   mindset: "Build useful software with clarity, craft and consistency"
 };
 ```
@@ -71,8 +71,8 @@ I enjoy turning ideas into practical applications, with special attention to cle
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&amp;logo=html5&amp;logoColor=f97316&amp;labelColor=0f172a" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&amp;logo=css3&amp;logoColor=38bdf8&amp;labelColor=0f172a" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Android-020617?style=for-the-badge&amp;logo=android&amp;logoColor=22c55e&amp;labelColor=0f172a" alt="Android" />
-  <img src="https://img.shields.io/badge/Android_Studio-020617?style=for-the-badge&amp;logo=androidstudio&amp;logoColor=22c55e&amp;labelColor=0f172a" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Mobile_Apps-020617?style=for-the-badge&amp;logo=googleplay&amp;logoColor=22c55e&amp;labelColor=0f172a" alt="Mobile Apps" />
+  <img src="https://img.shields.io/badge/Mobile_Tooling-020617?style=for-the-badge&amp;logo=androidstudio&amp;logoColor=22c55e&amp;labelColor=0f172a" alt="Mobile Tooling" />
   <img src="https://img.shields.io/badge/Java_Swing-020617?style=for-the-badge&amp;logo=openjdk&amp;logoColor=f97316&amp;labelColor=0f172a" alt="Java Swing" />
 </p>
 
@@ -101,11 +101,11 @@ I enjoy turning ideas into practical applications, with special attention to cle
 <table align="center">
 <tr>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/android-os.png" width="56" alt="Android" />
+<img src="https://img.icons8.com/fluency/96/smartphone-tablet.png" width="56" alt="Mobile apps" />
 <br />
-<strong>Mobile</strong>
+<strong>Mobile Apps</strong>
 <br />
-<sub>Native Android apps</sub>
+<sub>Built for any screen</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://img.icons8.com/fluency/96/source-code.png" width="56" alt="Code" />
