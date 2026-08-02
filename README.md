@@ -43,12 +43,6 @@ I enjoy turning ideas into practical applications, with special attention to cle
 ## `// current signal`
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitaoh&amp;theme=github_dark" alt="Victor GitHub profile details" />
-</div>
-
-<br />
-
-<div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vitaoh&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=020617&amp;color=cbd5e1&amp;line=22d3ee&amp;point=a78bfa&amp;area=true&amp;area_color=0891b2&amp;custom_title=Contribution%20Flow" alt="Contribution activity graph" />
 </div>
 
@@ -99,60 +93,44 @@ I enjoy turning ideas into practical applications, with special attention to cle
 ## `// focus areas`
 
 <table align="center">
-<tr>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/smartphone-tablet.png" width="56" alt="Mobile apps" />
-<br />
-<strong>Mobile Apps</strong>
-<br />
-<sub>Built for any screen</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/source-code.png" width="56" alt="Code" />
-<br />
-<strong>Web</strong>
-<br />
-<sub>Responsive interfaces</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/server.png" width="56" alt="Server" />
-<br />
-<strong>Backend</strong>
-<br />
-<sub>APIs and services</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/database.png" width="56" alt="Database" />
-<br />
-<strong>Data</strong>
-<br />
-<sub>Relational databases</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/idea.png" width="56" alt="Idea" />
-<br />
-<strong>Logic</strong>
-<br />
-<sub>Problem solving</sub>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/fluency/96/smartphone-tablet.png" width="56" alt="Mobile apps" />
+      <br />
+      <strong>Mobile Apps</strong>
+      <br />
+      <sub>Built for any screen</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/fluency/96/source-code.png" width="56" alt="Code" />
+      <br />
+      <strong>Web</strong>
+      <br />
+      <sub>Responsive interfaces</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/fluency/96/server.png" width="56" alt="Server" />
+      <br />
+      <strong>Backend</strong>
+      <br />
+      <sub>APIs and services</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/fluency/96/database.png" width="56" alt="Database" />
+      <br />
+      <strong>Data</strong>
+      <br />
+      <sub>Relational databases</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.icons8.com/fluency/96/idea.png" width="56" alt="Idea" />
+      <br />
+      <strong>Logic</strong>
+      <br />
+      <sub>Problem solving</sub>
+    </td>
+  </tr>
 </table>
-
-<br />
-
-## `// github overview`
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitaoh&amp;theme=github_dark" alt="Repositories per language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitaoh&amp;theme=github_dark" alt="Most committed languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitaoh&amp;theme=github_dark" alt="GitHub stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vitaoh&amp;theme=github_dark&amp;utcOffset=-3&amp;v=2" alt="Productive time" />
-</div>
 
 <br />
 
