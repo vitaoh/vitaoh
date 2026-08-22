@@ -10,15 +10,18 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-herculini">
-    <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&amp;logo=linkedin&amp;logoColor=22d3ee&amp;labelColor=0f172a" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=22d3ee&labelColor=0f172a" alt="LinkedIn" />
   </a>
-  <a href="mailto:herculinvictorr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&amp;logo=gmail&amp;logoColor=f43f5e&amp;labelColor=0f172a" alt="Email" />
+
+  <a href="mailto:vrherculini@gmail.com">
+    <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=f43f5e&labelColor=0f172a" alt="Email" />
   </a>
+
   <a href="https://www.instagram.com/victorherculini/">
-    <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&amp;logo=instagram&amp;logoColor=a78bfa&amp;labelColor=0f172a" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=a78bfa&labelColor=0f172a" alt="Instagram" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=vitaoh&amp;style=for-the-badge&amp;color=0891b2&amp;label=PROFILE+VIEWS" alt="Profile views" />
+
+  <img src="https://komarev.com/ghpvc/?username=vitaoh&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 <br />
@@ -35,8 +38,6 @@ const victor = {
   mindset: "Build useful software with clarity, craft and consistency"
 };
 ```
-
-I enjoy turning ideas into practical applications, with special attention to clean code, readable architecture and interfaces that feel good to use. My work lives around mobile, web and backend development, with a strong curiosity for better engineering practices.
 
 <br />
 
@@ -135,10 +136,6 @@ I enjoy turning ideas into practical applications, with special attention to cle
 <br />
 
 ## `// connect`
-
-<p align="center">
-  I am open to collaborations, internship opportunities, freelance projects and conversations about software, products and technology.
-</p>
 
 <p align="center">
   <a href="mailto:herculinvictorr@gmail.com">
