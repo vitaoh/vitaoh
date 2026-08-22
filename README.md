@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/victor-herculini">
     <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=22d3ee&labelColor=0f172a" alt="LinkedIn" />
   </a>
-
+  
   <a href="mailto:vrherculini@gmail.com">
     <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=f43f5e&labelColor=0f172a" alt="Email" />
   </a>
