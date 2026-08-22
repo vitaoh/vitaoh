@@ -28,6 +28,8 @@
 
 ## `// about`
 
+<br />
+
 ```ts
 const victor = {
   name: "Victor Rodrigues Herculini",
@@ -43,6 +45,8 @@ const victor = {
 
 ## `// current signal`
 
+<br />
+
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vitaoh&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=020617&amp;color=cbd5e1&amp;line=22d3ee&amp;point=a78bfa&amp;area=true&amp;area_color=0891b2&amp;custom_title=Contribution%20Flow" alt="Contribution activity graph" />
 </div>
@@ -50,6 +54,8 @@ const victor = {
 <br />
 
 ## `// tech stack`
+
+<br />
 
 <h3 align="center">Languages</h3>
 
@@ -92,6 +98,8 @@ const victor = {
 <br />
 
 ## `// focus areas`
+
+<br />
 
 <table align="center">
   <tr>
@@ -136,6 +144,8 @@ const victor = {
 <br />
 
 ## `// connect`
+
+<br />
 
 <p align="center">
   <a href="mailto:herculinvictorr@gmail.com">
